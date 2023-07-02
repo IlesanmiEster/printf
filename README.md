@@ -1,4 +1,15 @@
-0X11. C -printf
+# C -printf
+
+## This is a team work between
+
+
+[Oladimeji Olayinka](https://github.com/holladworld)
+[Ilesanmi Esther](https://github.com/IlesanmiEster)
+
+The task was given during  ALX Software Engineering school program
+
+# Task
+
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
 Write a function that produce output according to a format.
 
